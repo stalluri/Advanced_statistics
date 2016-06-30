@@ -1,2 +1,69 @@
-# Advanced_statistics
-# Advanced_statistics
+# Advanced Statistics course cirriculum and projects
+
+Cirriculum
+
+- Random Variable Generation
+    - Probability integral transform
+    - Box-muller algorithm
+    - Discrete distributions
+- Statistical Functionals
+    - Empricial CDF
+    - Skewness, Kurtosis
+- Bootstrap Approach
+    - Key approximations
+- Parametric Inference
+    - MLE
+    - Kullback-Leibler distance
+    - Multi parameter Delta
+    - Parametric bootstrap
+- Hypothesis Testing
+    - P-values
+    - Wald test
+    - LRT
+    - FDR
+- Permutation Tests
+- Tests of Normality
+    - Multinomial
+    - Kolmogorov 
+    - Lillefors
+    - Shapiro Francia test
+- Outliers
+    - Box plot
+    - Trimmed mean
+    - Winsorized mean
+    - Huber's estimator
+    - MAD
+- Robust Measures of Location
+- Simple Linear Regression
+    - R2
+- Robust Regression
+    - Multi collinearity detection
+- Logit & Probit Models
+- Logistic regression
+    - Odds ratio
+    - Alpha & beta
+    - Pearson chi-square
+    - Hosmer Lemeshow Test
+    - Classification & Mis-classification
+    - ROC curves
+    - Model X2
+Robust & Non-parametric regression
+    - Theil Sen estimator
+    - LAD
+    - IMSE
+    - Kernels
+- Loglinear Models
+- Analysis of Variance
+- Multiple Regression
+- Time Series Models
+    - Classical decomposition
+    - Exponential smoothing
+    - Weak stationarity
+    - Moving average
+    - ARMA
+    - ARIMA
+- Bayesian Statistics
+    - Prior
+    - Posterior
+    - Predictive density
+    - Prior robustness
